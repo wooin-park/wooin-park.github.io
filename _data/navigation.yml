@@ -12,7 +12,7 @@ main:
     url: /cv/
 
   - title: "CV(Full)"
-    url: /cv(full)/
+    url: /cv-full/
     
   - title: "Publications"
     url: /publications/
