@@ -10,6 +10,9 @@
 main:
   - title: "CV"
     url: /cv/
+
+  - title: "CV(Full)"
+    url: /cv/
     
   - title: "Publications"
     url: /publications/
