@@ -11,7 +11,7 @@ author_profile: true
 
 **Yonsei University**, Seoul, South Korea
 - M.A in Economics, August 2026
-- Undergraduate studies in Education and Korean Language and Literature, March 2017 – February 2024
+- Undergraduate studies in Education, Korean Language and Literature, and Economics, March 2017 – February 2024
 - Undergraduate GPA: 4.11/4.30
 
 **University of California, Berkeley**, United States
